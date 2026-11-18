@@ -1,6 +1,6 @@
 ## Gabriel Barbosa Pessoa
 
-Desenvolvedor em transição para **Engenharia de IA**. Construo aplicações com LLMs de ponta a ponta: do RAG e dos agentes até avaliação, observabilidade, segurança e deploy na nuvem.
+Desenvolvedor Fullstack com foco em **Engenharia de IA**. Construo aplicações com LLMs de ponta a ponta: do RAG e dos agentes até avaliação, observabilidade, segurança e deploy na nuvem.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
