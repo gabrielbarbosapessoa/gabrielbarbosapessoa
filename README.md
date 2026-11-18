@@ -38,9 +38,9 @@ Agente de atendimento com Agentic RAG em LangGraph, construído do zero ao deplo
 ### Stack
 
 **IA:** LangChain, LangGraph, RAG, pgvector, embeddings, rerank, DeepEval, LangSmith, Hugging Face
+
 **Backend:** Python, FastAPI, PostgreSQL, SQL Server, VB.NET, Java, Spring Boot, Node.js
+
 **Infra:** Docker, GitHub Actions, Terraform, AWS (ECS, RDS, ECR, S3, IAM, CloudWatch)
 
-### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](COLE-AQUI-O-LINK-DO-SEU-LINKEDIN)
